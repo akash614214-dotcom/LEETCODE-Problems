@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
