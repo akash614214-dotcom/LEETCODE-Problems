@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0089-gray-code) |
 ## Array
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0089-gray-code) |
 ## Tree
 |  |
