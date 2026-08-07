@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0089-gray-code) |
 ## Array
 |  |
@@ -135,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0112-path-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
