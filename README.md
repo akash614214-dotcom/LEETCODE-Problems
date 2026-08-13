@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0088-merge-sorted-array) |
 ## Hash Table
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0045-jump-game-ii) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0045-jump-game-ii) |
 ## Sorting
 |  |
 | ------- |
