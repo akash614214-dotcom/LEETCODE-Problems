@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0088-merge-sorted-array) |
 ## Hash Table
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
