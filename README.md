@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0096-unique-binary-search-trees) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0045-jump-game-ii) |
+| [0096-unique-binary-search-trees](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0096-unique-binary-search-trees) |
 ## Stack
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0112-path-sum) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0112-path-sum) |
@@ -183,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
