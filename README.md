@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0045-jump-game-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
