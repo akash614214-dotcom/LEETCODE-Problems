@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0045-jump-game-ii) |
 | [0096-unique-binary-search-trees](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akash614214-dotcom/LEETCODE-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
